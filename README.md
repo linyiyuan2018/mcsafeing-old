@@ -11,7 +11,7 @@ mcsafeing是mcsafe的开发中版本
 3. mcsafe.exe 运行
 
 ## 赞助
-http://free.xianyuyun.xyz
+http://free.xianyuyun.xyz/save
 
 ## 什么时候会有 Linux mcsafe 
 linux mcsafe 已投入紧张的策划中,不久后就会发布
