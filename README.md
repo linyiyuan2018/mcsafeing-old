@@ -10,8 +10,15 @@ mcsafeing是mcsafe的开发中版本
 2.将您的服务端移到 "mcs" 目录
 3. mcsafe.exe 运行
 
+## 二次开发
+mcsafe使用了cfree开发工具,所以使用cfree相对更方便
+
 ## 赞助
 http://free.xianyuyun.xyz/save
 
 ## 什么时候会有 Linux mcsafe 
 linux mcsafe 已投入紧张的策划中,不久后就会发布
+
+
+## 0.3.3-3 遇到了什么技术瓶颈
+mcsafe的启动服务器功能无法正常工作
